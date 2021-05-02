@@ -1,5 +1,1 @@
-do what you want with all the versions of this program except claiming it as your own.
-unless you can prove that the current download is broken or messed up in some way,
-please do not distribute this piece of software, just share a link to the github page,
-https://github.com/everythingLeafwing/Aperture-Console. also remember to credit me,
-everythingLeafwing on GithHub(.com)
+there isn't really a liscence, these are just concepts d:
