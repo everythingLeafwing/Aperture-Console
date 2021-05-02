@@ -4,3 +4,5 @@ this is a console meant to look like that seen in Aperture Science Laboratories,
 
 the program isn't in a working state *yet*, but as of now this is how the program is planned to look like: <br>
 <img src="concept/concept1.png"/>
+
+there are two versions of the program
